@@ -1,4 +1,4 @@
 # PortFolio
 # Ethical-Hacker-Portfolio-template
 
-## [Live Site]([https://g/](https://ramangamerisop.github.io/PortFolio/))
+## [Live Site](https://ramangamerisop.github.io/PortFolio/)
