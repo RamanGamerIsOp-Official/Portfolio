@@ -373,10 +373,3 @@ canvas {
       opacity: 1;
     }
     }
-@media (max-width: 768px) {
-  /* Styles for tablets and mobile devices */
-  body {
-    font-size: 1rem;
-  }
-  /* Adjust layout for smaller screens */
-}
